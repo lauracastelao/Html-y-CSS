@@ -1,0 +1,94 @@
+.Container {
+    display: table;
+    border: 2px solid #000;
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+}
+.Row0 {
+    display: table-row;
+}
+.Row1 {
+    display: table-row;
+}
+.Row2 {
+    display: table-row;
+}
+.Row3 {
+    display: table-row;
+}
+
+.Column1, .Column2, .Column3, .Column4, .Column5, .Column6, .Column7, .Column8, .Column9, .Column10, .Column11, .Column12, .Column13, .Column14, .Column15, .Column15 {
+    display: table-cell;
+    border: 1px solid #000;
+    border: 0.5px solid #000;
+    vertical-align: middle;
+    padding: 10px;
+}
+.Column0 {
+    display: table-cell;
+    border: 0px;
+    vertical-align: middle;
+    padding: 10px;
+    background-color: green;
+}
+.Column16{
+    display: table-cell;
+    border: 0px;
+    vertical-align: middle;
+    padding: 10px;
+}
+.Column1{
+    background-color: #000;
+}
+.Column2{ 
+    background-color:teal
+    
+} 
+.Column2:hover{
+    opacity: 40%;
+}
+.Column3{
+    background-color: blue;
+}
+.Column3:hover{
+    opacity: 40%;
+.Column4{
+    background-color: navy;
+}
+.Column5{
+    background-color: lime;
+}
+.Column6{
+    background-color: white;
+}
+.Column7{
+    background-color: purple;
+}
+.Column8{
+    background-color: yellow;
+}
+.Column9 {
+    background-color: olive;
+}
+.Column10 {
+    background-color: red;
+}
+.Column11{
+    background-color: brown;
+}
+.Column12{
+    background-color: gray;
+}
+.Column13{
+    background-color: olive;
+}
+.Column14{
+    background-color: red;
+}
+.Column15{
+    background-color: fuchsia;
+}
+.Column16{
+    background-color: green;
+}

@@ -1,0 +1,62 @@
+@import 'Table.css';
+
+body{
+    background-color: bisque;
+    text-align: center;
+}
+
+#Black {
+    color: black;
+}
+
+#Teal {
+    color: teal;
+}
+
+#Blue{
+    color: blue
+}
+
+#Navy {
+    Color: navy
+}
+
+#Lime {
+    color: lime;
+}
+
+#White {
+    color: white;
+}
+
+#Purple {
+    color: purple
+}
+
+#Yellow {
+    Color: yellow
+}
+
+#Oliv  {
+    color: olive
+}
+
+#Red {
+    Color: red
+}
+
+#Brown {
+    color: brown
+}
+
+#Gray {
+    color: gray;
+}
+
+#Fuchsia {
+    color: fuchsia
+}
+
+#Green {
+    Color: green
+} 
